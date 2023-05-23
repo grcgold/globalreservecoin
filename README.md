@@ -1,0 +1,2 @@
+# globalreservecoin
+GRC Details
